@@ -1,0 +1,29 @@
+{
+  "name": "react-beauty-beast",
+  "version": "1.0.0",
+  "description": "This apps contains everything I have learned from her so far",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GSGranados/react-Beauty-Beast.git"
+  },
+  "keywords": [
+    "MC-Beauty"
+  ],
+  "author": "GSGranados",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GSGranados/react-Beauty-Beast/issues"
+  },
+  "homepage": "https://github.com/GSGranados/react-Beauty-Beast#readme",
+  "dependencies": {
+    "@material-ui/core": "^4.9.8",
+    "@material-ui/icons": "^4.9.1",
+    "boostrap": "^2.0.0",
+    "react-router-dom": "^5.1.2",
+    "sweetalert2": "^9.10.8"
+  }
+}
